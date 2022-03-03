@@ -36871,46 +36871,28 @@ a.u-link.u-text-hover-grey-90:hover {
 /*end-variables sitestylecss*/
  .u-header {
   background-image: none;
-}
-
-.u-header .u-sheet-1 {
-  min-height: 93px;
+  min-height: 96px;
 }
 
 .u-header .u-text-1 {
   text-shadow: -2px 2px 8px rgba(0,0,0,1);
+  font-family: Barlow;
+  font-weight: 400;
+  margin: 20px auto 21px;
 }
 
 .u-header .u-btn-1 {
   background-image: none;
   font-family: Bungee;
-}
-@media (max-width: 1199px) {
-  .u-header .u-sheet-1 {
-    min-height: 93px;
-  }
-
-  .u-header .u-text-1 {
-    font-family: Barlow;
-    font-weight: 400;
-  }
-
-  .u-header .u-btn-1 {
-    font-size: 3rem;
-  }
+  font-size: 3rem;
 }
 
-@media (max-width: 767px) {
-  .u-header .u-text-1 {
-    margin-top: 60px;
-    margin-bottom: 60px;
-  }
-}
+
+
 @media (max-width: 575px) {
   .u-header .u-text-1 {
     font-family: Bungee;
     font-weight: 700;
-    margin: 20px auto;
   }
 
   .u-header .u-btn-1 {
