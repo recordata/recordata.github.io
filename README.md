@@ -1,2 +1,1 @@
-## Configs
 Website of Recordata.
