@@ -1,1 +1,1 @@
-Wesite for [Recordata.](https://recordata.github.io)
+Website for [Recordata.](https://recordata.github.io)
